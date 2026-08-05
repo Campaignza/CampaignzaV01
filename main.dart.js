@@ -113834,8 +113834,8 @@ return A.bC(A.a6(A.b([r,B.K,A.C(q,n,n,n,n,p==null?n:p.aD(s.ag(0.6)),n,n,n)],t.p)
 aph(a){return A.ov(null,new A.aRv(this,a),J.ca(a)+1,B.cF,null,B.M)},
 ap3(a,b,c,d,e){var s=this.gbb().J($.mu(),t.T),r=e==null?null:e.c,q=!d&&r!=null&&r.length!==0&&s!=null&&s.length!==0&&s!==r,p=A.b([],t.s)
 if(d)p.push("All")
-p.push("Paid Ads")
 if(!q)p.push("Direct")
+p.push("Paid Ads")
 p.push("Collabs")
 return A.c0(A.ov(this.x,new A.aRs(this,p,b,c,a),p.length,B.nM,null,B.aN),50,null)}}
 A.aRD.prototype={
