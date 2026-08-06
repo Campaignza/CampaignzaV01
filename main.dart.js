@@ -110921,7 +110921,7 @@ o=n.x
 o.toString
 B.c.J(r,A.b([A.aX(m,A.C(o,m,m,m,m,B.a9Y,B.ab,m,m),B.o,m,m,new A.bd(q,m,m,p,m,m,B.D),m,m,m,m,B.cw,m,m,m),B.c1],s))}if(n.w)r.push(B.rV)
 else{q=A.oe(m,m,B.m,m,m,m,2,m,m,B.a5,m,m,B.PC,m,new A.bL(A.ay(16),new A.aM(B.ng,1,B.v,-1)),m,m,m,m,m)
-r.push(A.qq(A.c1(A.a_o("assets/images/google_logo.png",m,m,24,24),24,24),B.acm,new A.aPW(n),q))}r.push(B.jm)
+r.push(A.qq(A.c1(A.a_o("assets/images/google_logo.webp",m,m,24,24),24,24),B.acm,new A.aPW(n),q))}r.push(B.jm)
 r.push(n.apS(a))
 return A.dw(l,m,A.aX(m,A.rG(!0,new A.a6(B.nO,A.a8(A.b([j,B.K,B.abC,B.W,B.ach,B.a5U,A.fp(new A.a6(B.PD,A.a8(r,B.j,B.i,B.as,0,B.l),m),m,B.Na,12,m,B.aq,new A.bL(k,B.t)),B.c1,A.jQ(B.aca,new A.aPX(a),m)],s),B.j,B.ah,B.h,0,B.l),m),B.ad,!0),B.o,m,m,B.J3,m,m,m,m,m,m,m,1/0),m,!0,m,m)},
 apS(a){var s,r=null,q=A.z(a).ok.Q
