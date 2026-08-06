@@ -3,13 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "cee8c3940208f11274d855c1e39364f0",
-"assets/AssetManifest.bin.json": "47e912892140c8e3c23fba7c753435d3",
+const RESOURCES = {"assets/AssetManifest.bin": "0d147d1bb154b84530364a22d098fdd1",
+"assets/AssetManifest.bin.json": "0b5a5d5ba5098c20e1382d5f1a10142a",
 "assets/assets/fonts/Roboto-Bold.ttf": "dd5415b95e675853c6ccdceba7324ce7",
 "assets/assets/fonts/Roboto-Regular.ttf": "303c6d9e16168364d3bc5b7f766cfff4",
+"assets/assets/images/app_logo.png": "434b76db4789bd21cf49c432f9ec7b5c",
 "assets/assets/images/facebook_logo.webp": "0af0edc68ba0beacb3f2c9e421d4f61e",
 "assets/assets/images/google_logo.webp": "92a17ee75c2316cbfeae4bf9ddb7d2ab",
 "assets/assets/images/instagram_logo.webp": "34d2b93cc06cf92264af2adab867e238",
+"assets/assets/images/primary_logo.png": "1b5e1571541a9f9b7119208b64a15c3c",
 "assets/assets/images/qr_code.webp": "407667da98e32a281481f90a720ac583",
 "assets/assets/images/whatsapp_logo.webp": "503e140a91807e1e08b0697ad0e4731c",
 "assets/assets/images/youtube_logo.webp": "97c4749092a28817decf369ef25e1a49",
@@ -50,7 +52,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "cee8c3940208f11274d855c1e39364f0
 "canvaskit/skwasm_heavy.wasm": "b0be7910760d205ea4e011458df6ee01",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "e41e09c4e4fbd5e117ebd4596612efbf",
+"flutter_bootstrap.js": "e83e3a785f378e424fa2904a16732abf",
 "icons/Icon-192.png": "6734e13e104eb1d3fda07ce78fc82fdc",
 "icons/Icon-512.png": "708443414f06dcc0190f447e6fbdda64",
 "icons/Icon-maskable-192.png": "6734e13e104eb1d3fda07ce78fc82fdc",
